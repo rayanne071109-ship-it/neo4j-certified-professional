@@ -4,8 +4,8 @@ Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified 
 
 ## Minha Certificação
 
-- **Nome:** Seu Nome
-- **Certificado:** https://graphacademy.neo4j.com/c/seu-codigo
+- **Nome:** Rayanne Fernandes
+- **Certificado:** https://graphacademy.neo4j.com/c/d4799f54-2f1e-4142-9357-79328d56dd2f
 
 ## Como Foi a Jornada (opcional)
 
